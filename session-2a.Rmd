@@ -29,6 +29,6 @@ gt <- expression(3 * (t ^ 2) - 4 * cos(t))
 
 dg_dt <- D(expr = gt, name = 't')
 
-dg_dt
+dg_dt # Change
 ```
 
